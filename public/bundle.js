@@ -735,7 +735,7 @@ window.onload = function () {
     // this is the url for the profile avatar
     avatarURL: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F56867334%2F154764716258%2F2%2Foriginal.png?w=225&auto=format%2Ccompress&q=75&sharp=10&s=1fb211e51f24857622b5197d0e1e876d",
     // social media bar position (left or right)
-    socialMediaPosition: "right",
+    socialMediaPosition: "position-right",
     // social media usernames
     twitter: null,
     github: "alesanchezr",
